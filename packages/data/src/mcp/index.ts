@@ -247,4 +247,11 @@ export default [
       "Leverage SettleMint's Model Context Protocol server to seamlessly interact with enterprise blockchain infrastructure. Build, deploy, and manage smart contracts through AI-powered assistants, streamlining your blockchain development workflow for maximum efficiency.",
     logo: "https://console.settlemint.com/android-chrome-512x512.png",
   },
+  {
+    name: "idea-reality-mcp",
+    url: "https://github.com/mnemox-ai/idea-reality-mcp",
+    description:
+      "Pre-build reality check for AI coding agents. Scans GitHub, Hacker News, npm, PyPI & Product Hunt in parallel before your AI starts coding. Returns a 0-100 reality signal, similar projects, duplicate likelihood, and pivot suggestions.",
+    logo: "https://avatars.githubusercontent.com/u/263367191?v=4",
+  },
 ];
